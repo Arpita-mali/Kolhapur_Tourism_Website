@@ -19,8 +19,6 @@ A web-based tourism platform designed to showcase the rich culture, heritage, an
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 
-Backend: (Optional – Node.js / PHP / Python / Firebase etc.)
-
 APIs Used: Google Maps API (if implemented)
 
 Deployment: GitHub Pages
